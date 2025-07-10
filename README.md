@@ -11,7 +11,7 @@
 
 ## 📊 Stats
 
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscosta&show_icons=true&theme=tokyonight)
+![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscoosta&show_icons=true&theme=tokyonight)
 
 ---
 
